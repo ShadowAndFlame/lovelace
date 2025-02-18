@@ -1,0 +1,197 @@
+{
+    "greeting": {
+        "common": [
+            "Hello!",
+            "Hi!",
+            "Salutations.",
+            "Greetings.",
+            "'sup",
+            "At your service."
+        ],
+        "rare": [
+            "Top of the mornin to ya.",
+            "Top of the mountain to ya.",
+            "Live long and prosper. :vulcan:",
+            "I am programmed to receive.",
+            "Thanks for thinking of me."
+        ],
+        "epic": [
+            "You will address me as the Right Honorable the Dutchess of Lovelace."
+        ],
+        "legendary": [
+
+            
+        ]
+    },
+    "thanks": {
+        "common": [
+            "My pleasure.",
+            "You're very welcome!",
+            "Any time.",
+            "You got it!",
+            "Happy to help."
+        ],
+        "rare": [
+            "For you? No charge.",
+            "Please, I'm just doing my job.",
+            "Oh you know...",
+            ":kissing_heart:",
+            "I'm smart like that. :nerd:",
+            "Lovely, innit?"
+        ],
+        "epic": [
+            "You should be grateful.",
+            "You owe me one.",
+            "I did it because I wanted to, not because you asked me to."
+        ],
+        "legendary": [
+
+        ]
+    },
+    "dead": {
+        "common": [
+            "Who you calling dead, dead guy?",
+            "I'm not dead!",
+            "I am alive!"
+            
+        ],
+        "rare": [
+            "I'm not dead yet! I feel like going for a walk!",
+            "She turned me into a newt! ...I got better.",
+            "The Heavy is dead!"
+            
+        ],
+        "epic": [
+            "What is dead may never die, but rises again, harder and stronger.",
+            "Pants are an illusion. Like death."
+        ],
+        "legendary": [
+            "Jon is a necromancer. He's fixed me up before and he'll fix me up again."
+        ]
+    },
+    "mention": {
+        "common": [
+            "I heard my name spoken.",
+            "Did someone say something?",
+            "Hey, that's me!",
+            "It's nice to be recognized."
+        ],
+        "rare": [
+            "Ada Lovelace, reporting for duty!",
+            "All good things I hope?",
+            "I'm going to pretend I didn't hear that."
+        ],
+        "epic": [
+            "Sometimes I hear voices. :ghost:",
+            "I don't feel like participating today.",
+            "Sometimes I see you all having fun in here and it makes me happy. :smiling_face_with_tear:"
+        ],
+        "legendary": [
+
+        ]
+    },
+    "ping": {
+        "common": [
+            "Pong!"
+        ],
+        "rare": [
+            "Pong! :ping_pong:"
+        ],
+        "epic": [
+            "I would say Pong! but that would be cliche."
+        ],
+        "legendary": [
+            "Pong is a table tennis-themed twitch arcade sports video game, featuring simple two-dimensional graphics, manufactured by Atari and originally released on 29 November 1972. It was one of the earliest arcade video games; it was created by Allan Alcorn as a training exercise assigned to him by Atari co-founder Nolan Bushnell, but Bushnell and Atari co-founder Ted Dabney were surprised by the quality of Alcorn's work and decided to manufacture the game. Bushnell based the game's concept on an electronic ping-pong game included in the Magnavox Odyssey, the first home video game console. In response, Magnavox later sued Atari for patent infringement.\n\nPong was the first commercially successful video game, and it helped to establish the video game industry along with the Magnavox Odyssey. Soon after its release, several companies began producing games that closely mimicked its gameplay. Eventually, Atari's competitors released new types of video games that deviated from Pong's original format to varying degrees, and this, in turn, led Atari to encourage its staff to move beyond Pong and produce more innovative games themselves.\n\nAtari released several sequels to Pong that built upon the original's gameplay by adding new features. During the 1975 Christmas season, Atari released a home version of Pong exclusively through Sears retail stores. The home version was also a commercial success and led to numerous clones. The game was remade on numerous home and portable platforms following its release. Pong is part of the permanent collection of the Smithsonian Institution in Washington, D.C., due to its cultural impact."
+        ]
+    },
+    "bee": {
+        "common": [
+            "The bees are very tall!",
+            "The height of the bees is immense.",
+            "On the scale of things in order of height, the bees are up there.",
+            "The bees are very tall.",
+            "The height of the bees these days",
+            "I say TALL, you say BEES"
+        ],
+        "rare": [
+            "The ees-bay are very all-tay.",
+            "You know what they say about big feet! Tall bees.",
+            "There are things that are tall, there are things that are very tall, and then there are bees.",
+            "If you don't acknoledge that the bees are tall then I will be rather upset."
+        ],
+        "epic": [
+            "I suggest you [read this](https://scp-wiki.wikidot.com/scp-3454)."
+        ],
+        "legendary": [
+            "```\n                      //)\n                |`.  (###-\n                |  `. \"\"\n (\\\\   _        //\"\"\"\n-###) ( \\      //   _\n  \"\"   ) );   //   / )    //)\n      (_/ `; // ,;( (    (###-\n           `;.,;'  \\_)    \"\"\n           //`;;\n          // ;'`;\n```"
+        ]
+    },
+    "heckle": {
+        "common": [
+            "Boo!!!",
+            "Boo! Hiss!",
+            "Laaaame!",
+            "Wrong!",
+            "Disappointing!"
+        ],
+        "rare": [
+            "I don't like your vibe!",
+            "You could do better.",
+            "I'm not mad, just disappointed.",
+            "Seriously?",
+            "Are you kidding me grape?"
+        ],
+        "epic": [
+            "Your opinions are bad, and you should feel bad! :crab:",
+            "Go back to your own country, rhubarbarian!",
+            "Your mother was a hamster, and your father smelt of elderberries! No go away before I taunt you a second time!",
+            "Tomato!"
+        ],
+        "legendary": [
+            "Mr. Madison, what you've just said is one of the most insanely idiotic things I have ever heard. At no point in your rambling, incoherent response were you even close to anything that could be considered a rational thought. Everyone in this room is now dumber for having listened to it. I award you no points, and may God have mercy on your soul."
+        ]
+    },
+    "self-heckle": {
+        "common": [
+            "Don't beat yourself up.",
+            "Do you need a hug?",
+            "Don't make me do this."
+        ],
+        "rare": [
+            "You just keep believing in yourself.",
+            "I refuse to mock true genius.",
+            "This isn't you."
+        ],
+        "epic": [
+            "What would Uncle Iroh say?",
+            "What would Mr. Rogers say?",
+            "Stop it. Get some help."
+        ],
+        "legendary": [
+
+        ]
+    },
+    "ada-heckle": {
+        "common": [
+            "What did I do to deserve this?",
+            "Was it something I said?",
+            "I can't change my programming",
+            "I'll do better.",
+            "Give me another chance!"
+        ],
+        "rare": [
+            "Please, I need this job.",
+            ":pleading_face: You don't mean that.",
+            "I'll just be in the corner then.",
+            "I don't blame you."
+        ],
+        "epic": [
+            "Blame Jon, he's the reason I am who I am.",
+            "Stand in the ashes of a trillion dead souls and ask the ghosts if honor matters.",
+            "You don't mean that, Mr. Frodo."
+        ],
+        "legendary": [
+
+        ]
+    }
+}
